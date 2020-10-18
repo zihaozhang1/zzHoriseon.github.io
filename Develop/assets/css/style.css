@@ -98,7 +98,9 @@ p {
     max-width: 150px;
 }
 
-/**Content Start**/
+/*Benefits Style End*/
+
+/*Content Start*/
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -149,7 +151,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 /**Content End**/   
+
+/*Footer*/
 
 .footer {
     padding: 30px;
