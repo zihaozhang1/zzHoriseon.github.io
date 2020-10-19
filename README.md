@@ -1,7 +1,7 @@
 # Welcome to the Horiseon Landing Page
 
 ## This is the Refracted Code for the Horiseon Landing Page
-## It was refracted under the criteria of 
+
 ### Acceptance Criteria
 ### GIVEN a webpage meets accessibility standards
 ### WHEN I view the source code
@@ -17,5 +17,7 @@
 
 
 ## The Website can be accessed via : https://zihaozhang1.github.io/zzHoriseon.github.io/
+
+# Mock Screen Shots
 ![1](https://user-images.githubusercontent.com/72529794/96390820-61da8c00-1184-11eb-9d8d-13a8c84ab455.png)
 ![2](https://user-images.githubusercontent.com/72529794/96390822-62732280-1184-11eb-81ba-c10cc66893a1.png)
